@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimBase.Document Type="InGamePanels" version="1.0">
+    <Filename>InGamePanel_TheFlightSimKit.spb</Filename>
+    <InGamePanels.InGamePanelDefinition
+        id="PANEL_THEFLIGHTSIMKIT"
+        Name="The Flight Sim Kit"
+        url="html_ui/InGamePanels/TheFlightSimKit/TheFlightSimKit.html"
+        resizeDirections="Both"
+        minWidth="4"
+        minHeight="4"
+        defaultWidth="36"
+        defaultHeight="36"
+        defaultTop="33"
+        defaultRight="2"
+        icon="ICON_TOOLBAR_THEFLIGHTSIMKIT"
+        buttonVisible="true"
+    >
+    </InGamePanels.InGamePanelDefinition>
+</SimBase.Document>

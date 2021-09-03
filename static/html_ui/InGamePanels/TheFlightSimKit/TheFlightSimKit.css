@@ -1,0 +1,56 @@
+﻿/** This mixin makes a single line element fit exactly on the Roboto font for easier integration. */
+ingame-ui#TFSKPanel {
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content: center;
+  height:100% !important;
+  width: 100% !important;
+  /*border: 2px solid blue !important;*/
+}
+ingame-ui#TFSKPanel #TFSKPanelWrap {
+  display: flex;
+  flex-direction: column;
+  width: 100% !important;
+  height: 100% !important;
+  /*border: 2px solid red !important;*/
+  min-height: 0;
+  min-width: 0;
+  overflow:hidden;
+  align-items: stretch !important;
+  flex: 1 1 auto !important;
+}
+ingame-ui#TFSKPanel #TFSKPanelWrap #TFSKPanelIframe {
+  flex: 1 1 auto !important;
+  border: 0;
+}
+ingame-ui#TFSKPanel #MainDisplay.hidden {
+  display: none;
+}
+ingame-ui#TFSKPanel #Footer.hidden {
+  display: none;
+}
+ingame-ui#TFSKPanel .ingameUiContent {
+  /*border: 2px solid green !important;*/
+  display: flex !important;
+  flex-direction: column !important;
+  width: 100% !important;
+  height: 100% !important;
+  min-height: 0 !important;
+  min-width: 0 !important;
+  overflow:hidden !important;
+  align-items: stretch !important;
+  flex: 1 1 auto !important;
+}
+ingame-ui#TFSKPanel .ingameUiWrapper {
+  /*border: 2px solid yellow !important;*/
+  display: flex !important;
+  flex-direction: column !important;
+  width: 100% !important;
+  height: 100% !important;
+  min-height: 0 !important;
+  min-width: 0 !important;
+  overflow:hidden !important;
+  align-items: stretch !important;
+  flex: 1 1 auto !important;
+}
