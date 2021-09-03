@@ -6,7 +6,7 @@ Display TheFlightSimKit in-game in a Microsoft Flight Simulator 2020 toolbar pan
 
 ## Installing
 
-1. Download the latest package from the [releases](releases) page.
+1. Download the latest package from the [releases](https://github.com/bbrks/msfs2020-toolbar-theflightsimkit/releases) page.
 2. Extract into your MSFS Community folder.
 
 ## Building
