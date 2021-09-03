@@ -1,6 +1,6 @@
 # msfs2020-toolbar-theflightsimkit
 
-Display TheFlightSimKit in-game in a Microsoft Flight Simulator 2020 toolbar panel.
+Display [TheFlightSimKit](https://theflightsimkit.com/) in-game in a Microsoft Flight Simulator 2020 toolbar panel.
 
 ![2021-09-04 00_29_01-Microsoft Flight Simulator - 1 18 15 0](https://user-images.githubusercontent.com/1525809/132074847-803c73bb-b5f0-4d26-aee2-595022375391.jpg)
 
